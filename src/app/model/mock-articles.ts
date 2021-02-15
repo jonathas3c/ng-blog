@@ -8,7 +8,7 @@ export const ARTICLES: Article[] = [
         description: "This is my first article! It's great. Please read it :)",
         key: 'my-first-article',
         date: new Date(),
-        imageUrl: 'http://angular.io/asets/images/logos/angular/angular.png'
+        imageUrl: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Code_thinking_re_gka2.svg'
     },
     {
         id: 3,
@@ -17,6 +17,6 @@ export const ARTICLES: Article[] = [
         description: "Also a great article! It's great. Please read it too :)",
         key: 'my-second-article',
         date: new Date(),
-        imageUrl: 'http://angular.io/asets/images/logos/angular/angular-soldBlack.png'
+        imageUrl: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Walking_outside_re_56xo.svg'
     },
 ];
